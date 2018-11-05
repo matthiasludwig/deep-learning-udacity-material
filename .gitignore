@@ -6,6 +6,7 @@ embeddings/text8.zip
 embeddings/checkpoints/
 face_generation/data/
 MNIST_data/
+semi-supervised/data/
 
 .ipynb_checkpoints/
 
